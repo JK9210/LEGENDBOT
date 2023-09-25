@@ -46,12 +46,12 @@
 
 Required :-
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `APP_ID`  =  21960982
+- `API_HASH`  =  f5bc34301dddd0a7bb1d3eb4a12589eb
+- `LEGEND_STRING`  = BQGMcpgAP3ehPMjL8UMGHZoVLOgm5Yty-zZsrDEZp7MwQe2sQO6k8wV-fPmr7lJlBlJwOvEHLeBeSHbOWabF31dKXJh8PVjGpY1bJrbe4mwnVfLePDhID9mQC_NkcvkfyXNyRFNXbcbnZTZ8vjk3vM78R-Nj8TfCCMNyAkTqKbVymOZHMo97HEnBejSYnZQ8ML4j__blwio62k2RZQ7qexHYTjhQKhQXRQZE7yCmDyqjJ5VVPSgj8y5SfREzB-AD3id8_lfOmTynkWtyk4gwiClTbPEw6mnfkpiajw7p11VbcABbBqVVpR2uYxQ1_rGMgb4dp6_kcV3AZHXr7ywAO6RIHOa7xwAAAAF2T98pAA
+- `BOT_TOKEN`  =  5889266942:AAERtsnrP7_-CN62GI9PhEsNOtoa3d8va4Y
 - `DB_URI` = Use Sql Database  From elephantsql.com
-- `HANDLER` = Use Your Command Handler Any Symbol
+- `HANDLER` = .
 - `EXTERNAL_REPO` = True / False
 - `UPSTREAM_REPO` = pro
 - `TZ` = Asia/Kolkata 
